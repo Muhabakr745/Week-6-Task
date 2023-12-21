@@ -1,0 +1,12 @@
+columns:
+- Direction
+- Year
+- Date
+- Weekday
+- Country
+- Commodity
+- Transport_Mode
+- Measure
+- Value
+- Cumulative
+separator: '|'
